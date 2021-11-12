@@ -23,3 +23,6 @@ Each assembly requires:
 1x GT2 closed loop Belt.  Rough calculations bring the needed length to around 120mm, and 122mm seems to be fairly readily available.  
 6x m3 nuts - 3 for mounting the encoder, 3 for mounting the assembly to the controller  
 3x m3 nuts - to secure the assembly to the controller  
+
+Things to consider:  
+1x 6mm collar clamp/lock collar/drillstop under the knob to stop downwards force from applying pressure to the torque limiter
