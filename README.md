@@ -8,6 +8,8 @@ Project to add TOK TLE1-618-5W torque limiters into a Yuancon's height restricti
 Things to know about belt_v2:
 As of this writing on 2021/11/11 it is UNTESTED.  I just placed orders for these parts today due to the 11/11 sale so it may take some time to get parts in.
 
+mount print orientation is pointy side up
+
 Each assembly requires:  
 1x 3D printed mount(FDM)  
 1x 3D printed pin_collar_v2(FDM)  
