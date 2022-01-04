@@ -1,6 +1,0 @@
-6.11 = tooth area radius
-
-circum = pi*(6.11*2)
-+ 40.68 * 2 straight belt length
-
-=119.75mm belt length
