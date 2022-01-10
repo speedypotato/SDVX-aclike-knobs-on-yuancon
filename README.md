@@ -11,7 +11,7 @@ As of 2022/01/10 belt_v2_2 has been installed successfully in my Yuancon SDVX 20
 
 ![Belt V2](images/belt_v2-2_4.JPG)
 
-![Belt V2](images/belt_v2-2_5.JPG)
+![Belt V2](images/belt_v2-2_5.jpg)
 
 ![Belt V2](images/belt_v2-2_6.JPG)
 
