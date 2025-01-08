@@ -25,7 +25,7 @@ Each assembly requires:
 1x 0.375in clamp collar https://www.aliexpress.com/item/4001149658372.html?spm=a2g0s.9042311.0.0.3a354c4dJLlZLb  
 1x 6x70mm metal shaft/dowel  
 1x Chinese encoder - purchase a new one because yuancon ones have the metal lip which increases height and therefore probably isn't compatible.  Use it in cheaper cons, it's still a good encoder/knob solution.  
-1x Knob https://www.speedylabs.shop/product/sound-voltex-aluminum-yuancon-diy-knob/  
+1x Knob https://www.speedylabs.us/product/sound-voltex-aluminum-yuancon-diy-knob/  
 4x m3 hex nut - insert into gt2 pulley  
 2x 3D printed GT2 pulleys(Resin or FDM).  Most GT2 pulleys for 3D printers are 5 or 8mm bore, but our encoder and shaft both use a 6mm.  Thus a custom solution is needed.   
 1x GT2 closed loop Belt.  Rough calculations bring the needed length to around 120mm, and 122mm seems to be fairly readily available.  
